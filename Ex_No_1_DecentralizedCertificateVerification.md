@@ -1,4 +1,8 @@
 ### Experiment 1: Decentralized Certificate Verification
+
+### Name: Ranjani k
+### Reg no: 212224230220
+
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
@@ -39,5 +43,20 @@ High-Level Overview:
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
 ```
+
+# Output
+
+# Issue Certificate:
+
+<img width="1600" height="940" alt="f7e9fb6d-3a71-436c-8e0f-ac95d0bc0090" src="https://github.com/user-attachments/assets/77e8206d-fd24-408d-a45d-28156e3e2ce1" />
+
+# True:
+<img width="1920" height="1128" alt="Screenshot 2026-08-14 112327" src="https://github.com/user-attachments/assets/7a6721b9-4c6b-44d2-b571-255ec800b52b" />
+
+# False:
+<img width="1920" height="1128" alt="Screenshot 2026-08-14 112459" src="https://github.com/user-attachments/assets/fa51c52d-8893-4cd3-b9eb-629fdeb2e22d" />
+
+
 # Result:
+Smart contract for issuing and verifying certificate on Ethereum is successfully executed.
 
